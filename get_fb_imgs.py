@@ -24,7 +24,7 @@ while 1:
         print("\033[1;93m Enter the valid number. Exitting...\033[1;00m")
         sys.exit("\033[1;91m See you later...\033[1;00m")
 
-    counter = 1
+    counter = 0
     counter2 = 0
     img_list = []
     src_list = []
